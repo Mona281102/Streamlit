@@ -14,6 +14,3 @@ Original file is located at
 import streamlit as st
 st.write("hello")
 
-! wget -q -O - ipv4.icanhazip.com
-
-! streamlit run our_app.py & npx localtunnel --port 8501
