@@ -10,7 +10,7 @@ Original file is located at
 
 
 # Commented out IPython magic to ensure Python compatibility.
-%%writefile our_app.py
+
 import streamlit as st
 st.write("hello")
 
